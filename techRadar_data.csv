@@ -29,3 +29,6 @@
 26,amazon S3,Storage,Try
 27,Azure storage,Storage,Hold
 28,Pure Storage,Storage,Hold
+29,Storage,amazon S3,Try
+30,Storage,Azure storage,Hold
+31,Storage,Pure Storage,Hold
