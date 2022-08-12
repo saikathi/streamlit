@@ -1,0 +1,8 @@
+,tech,Text
+0,Ansible,Ansible - A great tool for config with support from Redhat
+1,Chef,Chef - A great tool for config with support 
+2,Terraform,Terraform - Hashicorp supported
+3,Cloudformation,Cloudformation - AWS supported
+4,amazon S3,AWS S3 - AWS storage in objects
+5,Azure storage,Azure blob - Azure store in objects
+6,Pure Storage,Pure storage - Storage vendor

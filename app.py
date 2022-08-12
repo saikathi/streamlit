@@ -4,20 +4,32 @@ from collections import defaultdict
 from pyvis.network import Network
 import pandas as pd
 
-st.title('Tech Radar')
+st.title('Frictionless')
 st.markdown('From Hitachi Vantara')
 
 df = pd.read_csv("techRadar_data.csv")
+df_text = pd.read_csv("techRadar_view.csv")
+
 g = Network("500px", "100%", bgcolor="#3c4647", font_color="white")
 
-option = st.selectbox(
-     'What do you want to know  about',
-     df.tech.unique())
-if option == "All":
+# option = st.selectbox(
+#      'What do you want to know  about',
+#      df.tech.unique())
+options = st.multiselect("Technologies: ",
+                         df.tech.unique())
+st.write("You selected", len(options), 'Technologies')
+
+if options == ["All"]:
     df = df
+    st.write("All")
+    df_text = ["All about tech"]
+
 else:
-    options = [option]
+#     options = [option]
     df = df[df['tech'].isin(options)]
+    df_text = df_text[df_text['tech'].isin(options)]
+
+
 for _,tech,_,strategy in df.itertuples(index=False):
     if strategy == "Hold":
         draw_shape  = "dot"
@@ -45,6 +57,8 @@ g.barnes_hut(
     damping=.66,
     overlap=1
 )
+st.text(df_text.Text)
+# st.write(df_text.Text)
 g.show("radar_example.html")
 HtmlFile = open("radar_example.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read()
