@@ -14,3 +14,5 @@
 ,Azure Event Hub,Ordered messages,Try
 ,Kafka,Unordered messages,Hold
 ,Google PubSub,Messages > 1 MB,Try
+,Amazon Kinesis,Unordered messages,
+,Amazon Kinesis,Messages <  1 MB,
