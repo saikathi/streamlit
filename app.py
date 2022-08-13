@@ -7,7 +7,7 @@ import pandas as pd
 st.title('Frictionless')
 st.markdown('From Hitachi Vantara')
 
-df = pd.read_csv("techRadar_data_large.csv")
+df = pd.read_csv("techRadar_data_messaging.csv")
 df_text = pd.read_csv("techRadar_view.csv")
 
 g = Network("500px", "100%", bgcolor="#3c4647", font_color="white")

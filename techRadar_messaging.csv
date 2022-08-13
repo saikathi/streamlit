@@ -1,0 +1,16 @@
+﻿,tech,related,strategy
+,All,All,All
+0,Messaging,Kafka,Hold
+1,Messaging,Amazon Kinesis,Try
+,Messaging,Azure Event Hub,Hold
+,Messaging,Google PubSub,Try
+,Kafka,Opensource,Hold
+,Kafka,Confluent,Try
+,Amazon Kinesis,AWS,Hold
+,Azure Event Hub,Azure,Try
+,Google PubSub,GCP,Hold
+,Kafka,Managed / Unmanaged,Try
+,Azure Event Hub,Managed,Hold
+,Azure Event Hub,Ordered messages,Try
+,Kafka,Unordered messages,Hold
+,Google PubSub,Messages > 1 MB,Try
