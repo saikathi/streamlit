@@ -49,3 +49,6 @@
 ,Messaging guarantee,Amazon Kinesis,
 ,Messaging guarantee,Azure Event Hub,
 ,Messaging guarantee,Google PubSub,
+,AWS,Amazon Kinesis,
+,Azure Event Hub,Azure Event Hub,
+,GCP,Google PubSub,
