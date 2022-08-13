@@ -57,7 +57,7 @@ g.barnes_hut(
     damping=.66,
     overlap=1
 )
-st.text(df_text.Text)
+# st.text(df_text.Text)
 # st.write(df_text.Text)
 g.show("radar_example.html")
 HtmlFile = open("radar_example.html", 'r', encoding='utf-8')
