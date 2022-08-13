@@ -5,7 +5,7 @@ from pyvis.network import Network
 import pandas as pd
 
 st.title('Frictionless')
-st.markdown('From Hitachi Vantara')
+st.markdown('From XXX')
 
 df = pd.read_csv("techRadar_messaging.csv")
 df_text = pd.read_csv("techRadar_view.csv")
