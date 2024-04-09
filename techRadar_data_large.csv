@@ -1,0 +1,1224 @@
+,tech,related,strategy
+,All,All,All
+0,Storage,Amazon S3,Hold
+1,Storage,Google Cloud Storage,Try
+2,Storage,Pure Storage,Hold
+3,Storage,Alluxio,Try
+4,Storage,Nimble Storage,Hold
+5,Storage,Qumulo,Hold
+6,Storage,Clumio,Try
+7,Storage,Vast,Hold
+8,Storage,Datera,Try
+9,Storage,Cohesity,Hold
+10,Storage,Panasas,Hold
+11,Storage,Wasabi,Try
+12,Storage,IBM Storage,Hold
+13,Storage,Azure Storage,Try
+14,Hadoop,Cloudera,Hold
+15,Hadoop,Amazon EMR,Hold
+16,Hadoop,Google Cloud Dataproc,Try
+17,Hadoop,HPE Ezmera | Data Fabric,Hold
+18,Hadoop,Jethro,Try
+19,Hadoop,IBM InfoSphere BigInsights,Hold
+20,Hadoop,IBM InfoSphere,Hold
+21,Hadoop,Arm Treasure Data,Try
+22,Hadoop,SAP Cloud Platform,Hold
+23,Hadoop,Pivotal,Try
+24,Hadoop,Amazon EMR,Hold
+25,Hadoop,Azure HDInsight,Hold
+26,Infrastructure as code,Ansible,Try
+27,Infrastructure as code,AWS CloudFormation,Hold
+28,Infrastructure as code,Google Cloud Deployment Manager,Try
+29,Infrastructure as code,Vagrant,Hold
+30,Infrastructure as code,Crossplane,Hold
+31,Infrastructure as code,Puppet,Try
+32,Infrastructure as code,Pulumi,Hold
+,Infrastructure as code,Azure Resource Manager,Try
+,Infrastructure as code,Progress Chef,Hold
+,Infrastructure as code,Terraform,Hold
+,Data Lakes,Domo,Try
+,Data Lakes,Cloudera,Hold
+,Data Lakes,Databricks,Try
+,Data Lakes,Azure Data Lake Storage,Hold
+,Data Lakes,Dremio,Hold
+,Data Lakes,Amazon AWS Lake Formation,Try
+,Data Lakes,IBM Power Systems,Hold
+,Data Lakes,Qubole,Try
+,Data Warehouse,Amazon Redshift,Hold
+,Data Warehouse,Snowflake,Hold
+,Data Warehouse,Google BigQuery,Try
+,Data Warehouse,Azure Synapse Analytics,Hold
+,Data Warehouse,Oracle Exadata Cloud Service,Try
+,Data Warehouse,Firebolt,Hold
+,Data Warehouse,Pivotal,Hold
+,Data Warehouse,Infoworks,Try
+,Data Warehouse,Kyligence,Hold
+,Data Warehouse,Yellowbrick,Try
+,Streaming / In-Memory,Amazon Kinesis,Hold
+,Streaming / In-Memory,Google Cloud Dataflow,Hold
+,Streaming / In-Memory,Databricks,Try
+,Streaming / In-Memory,Confluent,Hold
+,Streaming / In-Memory,Oracle Coherence,Try
+,Streaming / In-Memory,SAP Cloud Platform,Hold
+,Streaming / In-Memory,Striim,Hold
+,Streaming / In-Memory,Gigaspaces,Try
+,Streaming / In-Memory,GridGain,Hold
+,Streaming / In-Memory,Hazelcast,Try
+,Streaming / In-Memory,kx,Hold
+,Streaming / In-Memory,Materialize,Hold
+,Streaming / In-Memory,Wallaroo Labs,Try
+,Streaming / In-Memory,Fast Data,Hold
+,Streaming / In-Memory,Meroxa,Try
+,Streaming / In-Memory,Vectorized,Hold
+,Streaming / In-Memory,Estuary,Hold
+,RDBMS,IBM DB2,Try
+,RDBMS,Oracle,Hold
+,RDBMS,SAP ASE,Try
+,RDBMS,Microsoft SQL Server,Hold
+,RDBMS,Microsoft Access,Hold
+,RDBMS,Amazon RDS,Try
+,RDBMS,Amazon Aurora,Hold
+,NoSQL Databases,Google Cloud Bigtable,Try
+,NoSQL Databases,Amazon DynamoDB,Hold
+,NoSQL Databases,Amazon DocumentDB,Hold
+,NoSQL Databases,Azure CosmosDB,Try
+,NoSQL Databases,Oracle,Hold
+,NoSQL Databases,MongoDB,Try
+,NoSQL Databases,MarkLogic,Hold
+,NoSQL Databases,Couchbase,Hold
+,NoSQL Databases,Datastax,Try
+,NoSQL Databases,Aerospike,Hold
+,NoSQL Databases,Redislabs,Try
+,NoSQL Databases,Scylla,Hold
+,NoSQL Databases,ArangoDB,Hold
+,NoSQL Databases,Crate.io,Try
+,NewSQL Database,SAP Hana,Hold
+,NewSQL Database,Amazon Aurora,Try
+,NewSQL Database,NuoDB,Hold
+,NewSQL Database,MariaDB,Hold
+,NewSQL Database,Cloud Spanner,Try
+,NewSQL Database,Pivotal,Hold
+,NewSQL Database,Clustrix,Try
+,NewSQL Database,Influx data,Hold
+,NewSQL Database,Cockroach Labs,Hold
+,NewSQL Database,Splice Machine,Try
+,NewSQL Database,Volt DB,Hold
+,NewSQL Database,TiDB,Try
+,NewSQL Database,Timescale,Hold
+,NewSQL Database,Apache Trafodio,Hold
+,NewSQL Database,Paradigm4,Try
+,NewSQL Database,PingCAP,Hold
+,NewSQL Database,YugabyteDB,Try
+,Real Time Database,SingleStore,Hold
+,Real Time Database,Imply,Hold
+,Real Time Database,Rockset,Try
+,Real Time Database,ClickHouse,Hold
+,Real Time Database,StarTree,Try
+,Real Time Database,Altinity,Hold
+,Real Time Database,Rill,Hold
+,Graph DBs,Neo4j,Try
+,Graph DBs,Amazon Neptune,Hold
+,Graph DBs,Apache Giraph,Try
+,Graph DBs,OrientDB,Hold
+,Graph DBs,IBM,Hold
+,Graph DBs,Oracle,Try
+,Graph DBs,Stardog,Hold
+,Graph DBs,InfiniteGraph,Try
+,Graph DBs,Objectivity,Hold
+,Graph DBs,TigerGraph,Hold
+,Graph DBs,TerminusDB,Try
+,MPP DBs,IBM Data Warehouse Systems,Hold
+,MPP DBs,Actian,Try
+,MPP DBs,Kognito,Hold
+,MPP DBs,Exasol,Hold
+,ETL / ELT / Data transformation,DBT,Try
+,ETL / ELT / Data transformation,Fivetran,Hold
+,ETL / ELT / Data transformation,Pentaho,Try
+,ETL / ELT / Data transformation,Amazon Athena,Hold
+,ETL / ELT / Data transformation,StreamSets,Hold
+,ETL / ELT / Data transformation,Meltano,Try
+,ETL / ELT / Data transformation,Talend,Hold
+,ETL / ELT / Data transformation,Stich,Try
+,ETL / ELT / Data transformation,Trifacta,Hold
+,ETL / ELT / Data transformation,Azure Data Factory,Hold
+,ETL / ELT / Data transformation,Narrator,Hold
+,ETL / ELT / Data transformation,Alteryx,Try
+,ETL / ELT / Data transformation,Matillion,Hold
+,ETL / ELT / Data transformation,Amazon Glue,Hold
+,ETL / ELT / Data transformation,Paxata,Try
+,ETL / ELT / Data transformation,Tamr,Hold
+,ETL / ELT / Data transformation,Airbyte,Try
+,ETL / ELT / Data transformation,Rivery,Hold
+,Reverse ETL,Census,Hold
+,Reverse ETL,Hightouch,Try
+,Reverse ETL,Grouparoo,Hold
+,Reverse ETL,RudderStack,Try
+,Reverse ETL,Flywheel Software,Hold
+,Reverse ETL,Polytomic,Hold
+,Data Integration,SAP Data Services,Try
+,Data Integration,MuleSoft,Hold
+,Data Integration,Qlik Data Catalyst,Try
+,Data Integration,Attunity,Hold
+,Data Integration,Infoworks,Hold
+,Data Integration,Twilo Segment,Try
+,Data Integration,Tealim,Hold
+,Data Integration,Tray.io,Try
+,Data Integration,Zaloni,Hold
+,Data Integration,Snowplow,Hold
+,Data Integration,Infomatica,Try
+,Data Integration,SnapLogic,Hold
+,Data Integration,Xplenty,Try
+,Data Integration,Import.io,Hold
+,Data Integration,Flatline,Hold
+,Data Governace & Access,Infromatica,Try
+,Data Governace & Access,IBM,Hold
+,Data Governace & Access,Collibra,Try
+,Data Governace & Access,Dremio,Hold
+,Data Governace & Access,Okera,Hold
+,Data Governace & Access,Data.world,Try
+,Data Governace & Access,ALTR,Hold
+,Data Governace & Access,SailPoint,Try
+,Data Governace & Access,Alation,Hold
+,Data Governace & Access,McAfee Skyhigh Security Cloud,Hold
+,Data Governace & Access,Immuta,Try
+,Data Governace & Access,Waterline Data,Hold
+,Data Governace & Access,Atlan,Try
+,Data Governace & Access,Observe point,Hold
+,Privacy & Security,Very Good Security,Hold
+,Privacy & Security,Privacera,Try
+,Privacy & Security,Cyral,Hold
+,Privacy & Security,Cape Privacy,Try
+,Privacy & Security,In Country,Hold
+,Privacy & Security,Trancend,Hold
+,Privacy & Security,Skyflow,Try
+,Privacy & Security,Duality,Hold
+,Privacy & Security,Privacy Dynamics,Try
+,Privacy & Security,Ketch,Hold
+,Data Observability,Datakin,Hold
+,Data Observability,Monte Carlo,Try
+,Data Observability,Manta,Hold
+,Data Observability,Collibra,Try
+,Data Observability,Datafold,Hold
+,Data Observability,Databand,Hold
+,Data Observability,Acceldata,Try
+,Data Observability,Metaplane,Hold
+,Data Quality,Talend,Try
+,Data Quality,Soda,Hold
+,Data Quality,Bigeye,Hold
+,Data Quality,SuperConductive,Try
+,Data Quality,Collibra,Hold
+,Data Quality,Anomalo,Try
+,Data Quality,Precisely,Hold
+,Data Quality,Lightup,Hold
+,Data Quality,Validio,Try
+,Management / Monitoring,Amazon Cloudwatch,Hold
+,Management / Monitoring,New Relic,Try
+,Management / Monitoring,Datadog,Hold
+,Management / Monitoring,Splunk,Hold
+,Management / Monitoring,Appdynamics,Try
+,Management / Monitoring,Rubrick,Hold
+,Management / Monitoring,Dynatrace,Try
+,Management / Monitoring,Solarwinds,Hold
+,Management / Monitoring,Wavefront by VMWare,Hold
+,Management / Monitoring,Actifio,Try
+,Management / Monitoring,Cribl,Hold
+,Management / Monitoring,Moogsoft,Try
+,Management / Monitoring,Chronosphere,Hold
+,Management / Monitoring,Unravel,Hold
+,Management / Monitoring,Pagerduty,Try
+,Management / Monitoring,Scalar,Hold
+,Management / Monitoring,Zenoss,Try
+,Management / Monitoring,ScienceLogic,Hold
+,Management / Monitoring,Magnitude,Hold
+,Management / Monitoring,Veeam,Try
+,Management / Monitoring,Grafana Labs,Hold
+,Management / Monitoring,OpsRamp,Try
+,Management / Monitoring,Progress Chef,Hold
+,Management / Monitoring,Honeycomb.io,Hold
+,Serverless,Microsoft Azure,Try
+,Serverless,AWS Lambda,Hold
+,Serverless,Google Cloud Functions,Try
+,Serverless,Nuclio,Hold
+,Serverless,Pivital Function Service,Hold
+,Cluster Services,Amazon ECS,Try
+,Cluster Services,IBM Power Systems,Hold
+,Cluster Services,Amazon EKS,Try
+,Cluster Services,HPCC Systems,Hold
+,Cluster Services,PepperData,Hold
+,Cluster Services,Microsoft Cluster Server,Try
+,Cluster Services,D2IQ,Hold
+,Cluster Services,Coiled,Try
+,Cluster Services,Anyscale,Hold
+,Cluster Services,Packet,Hold
+,Cluster Services,CycleCloud,Try
+,Cluster Services,Penguin Computing,Hold
+,Cluster Services,Hewlett Packard Enterprise,Try
+,Data Marketplaces & Discovery,AWS Data Exchange,Hold
+,Data Marketplaces & Discovery,Snowflake Data Exchange,Hold
+,Data Marketplaces & Discovery,Dawex,Try
+,Data Marketplaces & Discovery,Explorium,Hold
+,Data Marketplaces & Discovery,Data.world,Try
+,Data Marketplaces & Discovery,Narrative ,Hold
+,Data Marketplaces & Discovery,Google Dataset Search,Hold
+,Financial & Economic Data,Bloomberg,Try
+,Financial & Economic Data,Thomson Reuters,Hold
+,Financial & Economic Data,Dow Jones,Try
+,Financial & Economic Data,Quandl,Hold
+,Financial & Economic Data,S&P Capital IQ,Hold
+,Financial & Economic Data,Dow Jones,Try
+,Financial & Economic Data,Quandl ,Hold
+,Financial & Economic Data,Xignite,Try
+,Financial & Economic Data,Thinknum,Hold
+,Financial & Economic Data,Earnest Research,Hold
+,Financial & Economic Data,CB Insights,Try
+,Financial & Economic Data,Second Measure,Hold
+,Financial & Economic Data,Envestnet Yodlee,Try
+,Financial & Economic Data,The World Bank,Hold
+,Financial & Economic Data,System,Hold
+,Financial & Economic Data,StockTwits,Try
+,Financial & Economic Data,True Layer,Hold
+,Financial & Economic Data,Chainalysis,Try
+,Financial & Economic Data,Kaiko,Hold
+,Financial & Economic Data,Coin Metrics,Hold
+,Financial & Economic Data,Pre data,Try
+,Financial & Economic Data,MX,Hold
+,Financial & Economic Data,Tink,Try
+,Financial & Economic Data,SmartNews,Hold
+,Air / Space / Sea,Orbital Insight,Hold
+,Air / Space / Sea,Airobotics,Try
+,Air / Space / Sea,Spire,Hold
+,Air / Space / Sea,Descartes Labs,Try
+,Air / Space / Sea,Windward,Hold
+,Air / Space / Sea,MarineTraffic,Hold
+,Air / Space / Sea,Loft Orbital,Try
+,Air / Space / Sea,RS Metrics,Hold
+,Air / Space / Sea,ExoLabs,Try
+,Air / Space / Sea,Qianxun SI,Hold
+,Air / Space / Sea,Synspective,Hold
+,People / Entities,Zoominfo,Try
+,People / Entities,Acxiom,Hold
+,People / Entities,Experiam,Try
+,People / Entities,Epsilon,Hold
+,People / Entities,InsideView,Hold
+,People / Entities,Brandwatch,Try
+,People / Entities,Quantcast,Hold
+,People / Entities,Basis Technology,Try
+,People / Entities,Brandwatch,Hold
+,People / Entities,Safe Graph,Hold
+,People / Entities,Demyst,Try
+,People / Entities,Melissa,Hold
+,People / Entities,Zignal Labs,Try
+,Location Intelligence,Foursquare,Hold
+,Location Intelligence,Mapbox,Hold
+,Location Intelligence,Sense 360,Try
+,Location Intelligence,Pitney Bowes,Hold
+,Location Intelligence,PlaceIQ,Try
+,Location Intelligence,Esri,Hold
+,Location Intelligence,Cart,Hold
+,Location Intelligence,Radar,Try
+,Location Intelligence,Mapillary,Hold
+,Location Intelligence,Cuebiq,Try
+,Location Intelligence,OpenStreetMap,Hold
+,Other,Data.gov,Hold
+,Other,Defence Innovation Unit,Try
+,Other,Imagenet,Hold
+,Other,Labelme,Try
+,Other,Berkeley DeepDrive,Hold
+,Other,COCO Common Objects in Context,Hold
+,Other,ApolloScape,Try
+,Other,Crux,Hold
+,Other,Veritone,Try
+,Other,Comscore,Hold
+,Data Services,Quantum Black,Hold
+,Data Services,Mu Sigma,Try
+,Data Services,Booz Allen Hamilton,Hold
+,Data Services,Kaggle,Try
+,Data Services,EletrifAi,Hold
+,Data Services,Fractal,Hold
+,Data Services,EXL Analytics,Try
+,Data Services,DataKind,Hold
+,Data Services,Innoplexus,Try
+,Incubators & Schools,Pluralsight,Hold
+,Incubators & Schools,General Assembly,Hold
+,Incubators & Schools,DataCamp,Try
+,Incubators & Schools,DataElite,Hold
+,Incubators & Schools,Galvanize,Try
+,Incubators & Schools,Metis,Hold
+,Incubators & Schools,Insight,Hold
+,Incubators & Schools,The Data Incubator,Try
+,Research,OpenAI,Hold
+,Research,Google Research,Try
+,Research,Facebook research,Hold
+,Research,Mila,Hold
+,Research,Miri,Try
+,Research,Vector Institute,Hold
+,Research,CSAIL,Try
+,Research,DFKI,Hold
+,Research,Ofai,Hold
+,Research,Allen Institute for AI,Try
+,Research,Anthropic,Hold
+,Research,Salk,Try
+,Research,EIL,Hold
+,Data Science Notebooks,Jupyterhub,Hold
+,Data Science Notebooks,Binder,Try
+,Data Science Notebooks,Colab,Hold
+,Data Science Notebooks,SaturnCloud,Try
+,Data Science Notebooks,Google Cloud Datalab,Hold
+,Data Science Notebooks,Amazon SageMaker,Hold
+,Data Science Notebooks,Azure Notebooks,Try
+,Data Science Notebooks,Deepnote,Hold
+,Data Science Notebooks,Nextjournal,Try
+,Data Science Notebooks,Count,Hold
+,Data Science Notebooks,CocaLC,Hold
+,Data Science Notebooks,Curvenote,Try
+,Data Science Notebooks,Hex,Hold
+,Data Science Notebooks,Noteable,Try
+,Data Science Platforms,IBM Watson Studio,Hold
+,Data Science Platforms,Oracle Data Science Platform,Hold
+,Data Science Platforms,Rapidminer,Try
+,Data Science Platforms,Palantir,Hold
+,Data Science Platforms,Sas,Try
+,Data Science Platforms,TIBC,Hold
+,Data Science Platforms,Anaconda,Hold
+,Data Science Platforms,Altair Knowledge Works,Try
+,Data Science Platforms,Knime,Hold
+,Data Science Platforms,MathWorks,Try
+,ML Platforms,Databricks,Hold
+,ML Platforms,DataRobot,Hold
+,ML Platforms,Data Iku,Try
+,ML Platforms,Domino,Hold
+,ML Platforms,H20 AI,Try
+,ML Platforms,Amazon SageMaker,Hold
+,ML Platforms,Azure Machine Learning,Hold
+,ML Platforms,Abacus.ai,Try
+,ML Platforms,Zilliz,Hold
+,ML Platforms,Snorkel,Try
+,ML Platforms,Pachyderm,Hold
+,ML Platforms,OctoML,Hold
+,ML Platforms,Iguazio,Try
+,ML Platforms,Stradigi AI,Hold
+,ML Platforms,Dot Data,Try
+,ML Platforms,Datmo,Hold
+,ML Platforms,Spell,Hold
+,ML Platforms,Saagie,Try
+,ML Platforms,Obviously.ai,Hold
+,Data Generation & Labelling,Amazon Mechanical Turk,Try
+,Data Generation & Labelling,Hive,Hold
+,Data Generation & Labelling,Scale,Hold
+,Data Generation & Labelling,UpWork,Try
+,Data Generation & Labelling,Appen,Hold
+,Data Generation & Labelling,Unity,Try
+,Data Generation & Labelling,Lionbridge,Hold
+,Data Generation & Labelling,Labelbox,Hold
+,Data Generation & Labelling,Ai.Reverie,Try
+,Data Generation & Labelling,Cloud Factory,Hold
+,Data Generation & Labelling,Super.ai,Try
+,Data Generation & Labelling,Superb AI,Hold
+,Data Generation & Labelling,SuperAnnotate,Hold
+,Data Generation & Labelling,Kili Technology,Try
+,Model Building,Weights & Biases,Hold
+,Model Building,Run : AI,Try
+,Model Building,Comet,Hold
+,Model Building,Grid.ai,Hold
+,Model Building,Fiddler,Try
+,Model Building,Determined AI,Hold
+,Model Building,Elementl,Try
+,Model Building,Aim,Hold
+,Model Building,Aporia,Hold
+,Model Building,Kaskada,Try
+,Model Building,Aquarium,Hold
+,Model Building,SigOpt,Try
+,Feature Store,Tecton,Hold
+,Feature Store,Hopsworks,Hold
+,Feature Store,Google Cloud,Try
+,Feature Store,Rasgo,Hold
+,Feature Store,StreamSQL,Try
+,Feature Store,Feast,Hold
+,Feature Store,Bytehub AI,Hold
+,Feature Store,Fal.ai,Try
+,Deployment & Production,Amazon SageMaker,Hold
+,Deployment & Production,Databricks,Try
+,Deployment & Production,Verta,Hold
+,Deployment & Production,Datatron,Hold
+,Deployment & Production,Cortex,Try
+,Deployment & Production,Seldon,Hold
+,Deployment & Production,Cnvrg.io,Try
+,Deployment & Production,Bento ML,Hold
+,Model Monitoring & Observability,Arthur,Hold
+,Model Monitoring & Observability,Evidently AI,Try
+,Model Monitoring & Observability,Truera,Hold
+,Model Monitoring & Observability,Arize,Try
+,Model Monitoring & Observability,Whylabs,Hold
+,Frameworks,Hadoop HDFS,Hold
+,Frameworks,Spark,Try
+,Frameworks,Hadoop Map Reduce,Hold
+,Frameworks,Slider,Try
+,Frameworks,Flink,Hold
+,Frameworks,Yarn,Hold
+,Frameworks,Tez,Try
+,Frameworks,Kuberenetes,Hold
+,Frameworks,Apache Kylin,Try
+,Frameworks,Mesos,Hold
+,Frameworks,Dockers,Hold
+,Frameworks,CDAP,Try
+,Frameworks,Red Hat,Hold
+,Frameworks,High Availability,Try
+,Frameworks,Helix,Hold
+,Format,Iceberg,Hold
+,Format,Parquet,Try
+,Format,Apache Hudi,Hold
+,Format,Apache Orc,Try
+,Format,Apache Arrow,Hold
+,Format,Delta Lake,Hold
+,Query / Data Flow,Spark SQL,Try
+,Query / Data Flow,Apache Pig,Hold
+,Query / Data Flow,Apache Hive,Try
+,Query / Data Flow,Presto,Hold
+,Query / Data Flow,Apache Drill,Hold
+,Query / Data Flow,Slam Data,Try
+,Query / Data Flow,Graph QL,Hold
+,Query / Data Flow,Trino,Try
+,Query / Data Flow,Google Cloud Dataflow,Hold
+,Query / Data Flow,HAWQ,Hold
+,Query / Data Flow,Apache Trafodion,Try
+,Data Access,Uber Databook,Hold
+,Data Access,Amundsen,Try
+,Data Access,Magda,Hold
+,Data Access,ckan,Hold
+,Databases,PostgresSQL,Try
+,Databases,MySQL,Hold
+,Databases,mongoDB,Try
+,Databases,redis,Hold
+,Databases,Cockroach Labs,Hold
+,Databases,Maria DB,Try
+,Databases,Influx DB,Hold
+,Databases,Presto,Try
+,Databases,Apache Druid,Hold
+,Databases,Cassandra,Hold
+,Databases,Dataportal,Try
+,Databases,SciDB,Hold
+,Databases,Data Hub,Try
+,Databases,Flume,Hold
+,Databases,Google Cloud Spanner,Hold
+,Databases,Couch DB,Try
+,Databases,Riak,Hold
+,Databases,Open TSDB,Try
+,Databases,Accumulo,Hold
+,Databases,ClickHouse,Hold
+,Databases,Pinot,Try
+,Databases,Edge DB,Hold
+,Databases,Ksql DB,Try
+,Databases,Apache HBase,Hold
+,Orchestration,Apache Airflow,Hold
+,Orchestration,Prefect,Try
+,Orchestration,Dagster,Hold
+,Orchestration,Flyte,Try
+,Orchestration,Metaflow,Hold
+,Orchestration,Kedro,Hold
+,Orchestration,Luigi,Try
+,Infrastructure,Apache Zookeeper,Hold
+,Infrastructure,Apache Ambari,Try
+,Infrastructure,Apache Mesos,Hold
+,Infrastructure,Argo,Hold
+,Data OPS,Marquez,Try
+,Data OPS,Great Expectations,Hold
+,Data OPS,Open Lineage,Try
+,Data OPS,Lake FS,Hold
+,Data OPS,Project Nessie,Hold
+,Streaming & Messaging,Spark Streaming,Try
+,Streaming & Messaging,Apache Kafka,Hold
+,Streaming & Messaging,Beam,Try
+,Streaming & Messaging,Pulsar,Hold
+,Streaming & Messaging,Flink,Hold
+,Streaming & Messaging,Storm,Try
+,Streaming & Messaging,Apex,Hold
+,Streaming & Messaging,Nifi,Try
+,Streaming & Messaging,Apache RocketMQ,Hold
+,Streaming & Messaging,Samza,Hold
+,Stat Tools & Languages,Python,Try
+,Stat Tools & Languages,R,Hold
+,Stat Tools & Languages,Scala,Try
+,Stat Tools & Languages,NumPy,Hold
+,Stat Tools & Languages,Pandas,Hold
+,Stat Tools & Languages,SciPy,Try
+,Stat Tools & Languages,R Studio,Hold
+,Stat Tools & Languages,Pyro,Try
+,Stat Tools & Languages,Julia,Hold
+,Stat Tools & Languages,Data Table,Hold
+,Stat Tools & Languages,Tidyverse,Try
+,ML OPS & Infra,Pachyderm,Hold
+,ML OPS & Infra,ML Flow,Try
+,ML OPS & Infra,Kubeflow,Hold
+,ML OPS & Infra,Mleap,Hold
+,ML OPS & Infra,DVC,Try
+,ML OPS & Infra,Seldon,Hold
+,ML OPS & Infra,Snorkel,Try
+,ML OPS & Infra,Polyaxon,Hold
+,ML OPS & Infra,Bento ML,Hold
+,ML OPS & Infra,Media Pipe,Try
+,AI / Machine Learning / Deep Learning,TensorFlow,Hold
+,AI / Machine Learning / Deep Learning,Torch,Try
+,AI / Machine Learning / Deep Learning,Transformers,Hold
+,AI / Machine Learning / Deep Learning,OpenCV,Hold
+,AI / Machine Learning / Deep Learning,MADlib,Try
+,AI / Machine Learning / Deep Learning,Scikit Learn,Hold
+,AI / Machine Learning / Deep Learning,Keras,Try
+,AI / Machine Learning / Deep Learning,Bert,Hold
+,AI / Machine Learning / Deep Learning,Dmlc XDBoost,Hold
+,AI / Machine Learning / Deep Learning,Caffe,Try
+,AI / Machine Learning / Deep Learning,Microsoft Cognitive Toolkit,Hold
+,AI / Machine Learning / Deep Learning,DMTK,Try
+,AI / Machine Learning / Deep Learning,OpenAI,Hold
+,AI / Machine Learning / Deep Learning,PyTorch Lightning,Hold
+,AI / Machine Learning / Deep Learning,Theano,Try
+,AI / Machine Learning / Deep Learning,PaddlePaddle,Hold
+,AI / Machine Learning / Deep Learning,Apache Singa,Try
+,AI / Machine Learning / Deep Learning,Dimsum,Hold
+,AI / Machine Learning / Deep Learning,FeatureFu,Hold
+,AI / Machine Learning / Deep Learning,Veles,Try
+,AI / Machine Learning / Deep Learning,Mxnet,Hold
+,AI / Machine Learning / Deep Learning,Neon,Try
+,AI / Machine Learning / Deep Learning,Chainer,Hold
+,AI / Machine Learning / Deep Learning,Michelangelo,Hold
+,AI / Machine Learning / Deep Learning,ONNX,Try
+,AI / Machine Learning / Deep Learning,Weka,Hold
+,AI / Machine Learning / Deep Learning,Ludwig,Try
+,AI / Machine Learning / Deep Learning,Horovod,Hold
+,AI / Machine Learning / Deep Learning,CoreNLP,Hold
+,AI / Machine Learning / Deep Learning,DSSTNE,Try
+,AI / Machine Learning / Deep Learning,Mllib,Hold
+,AI / Machine Learning / Deep Learning,DL4J,Try
+,AI / Machine Learning / Deep Learning,Mahout,Hold
+,AI / Machine Learning / Deep Learning,Aerosolve,Hold
+,AI / Machine Learning / Deep Learning,Fast.ai,Try
+,AI / Machine Learning / Deep Learning,Mlr,Hold
+,AI / Machine Learning / Deep Learning,OpenML,Try
+,AI / Machine Learning / Deep Learning,Mindsdb,Hold
+,AI / Machine Learning / Deep Learning,SpaCy,Hold
+,AI / Machine Learning / Deep Learning,Kubeflow,Try
+,AI / Machine Learning / Deep Learning,AllenNLP,Hold
+,AI / Machine Learning / Deep Learning,TinyML,Try
+,AI / Machine Learning / Deep Learning,CatBoost,Hold
+,Search,ElasticSearch,Hold
+,Search,Solr,Try
+,Search,Apache Lucene,Hold
+,Search,Sphinx,Try
+,Search,MeiliSearch,Hold
+,Search,Sonic,Hold
+,Search,Toshi Search,Try
+,Search,Tantivy,Hold
+,Logging & Monitoring,ElasticSearch,Try
+,Logging & Monitoring,Kibana,Hold
+,Logging & Monitoring,Sentry,Hold
+,Logging & Monitoring,Logstach,Try
+,Logging & Monitoring,Prometheus,Hold
+,Logging & Monitoring,Fluent Bit,Try
+,Logging & Monitoring,Fluent TD,Hold
+,Logging & Monitoring,Grafana,Hold
+,Logging & Monitoring,Vector,Try
+,Logging & Monitoring,Open Telemetry,Hold
+,Visualization,D3,Try
+,Visualization,Superset,Hold
+,Visualization,Matplotlib,Hold
+,Visualization,Metabase,Try
+,Visualization,Redash,Hold
+,Visualization,TensorBoard,Try
+,Visualization,Seaborn,Hold
+,Visualization,Bokeh,Hold
+,Visualization,Ggplot2,Try
+,Collaboration,Beake,Hold
+,Collaboration,Jupyter,Try
+,Collaboration,Zeppelin,Hold
+,Collaboration,Anaconda,Hold
+,Security,Apache Ranger,Try
+,Security,Knox,Hold
+,Security,Sentry,Try
+,Security,Accumulo,Hold
+,Security,Snyk,Hold
+,MPP DBs,Teradata,Try
+,MPP DBs,Vertica,Hold
+,Computer Vision,Microsoft Azure,Try
+,Computer Vision,Cloud Vision Api,Hold
+,Computer Vision,Amazon Rekognition,Hold
+,Computer Vision,SenseTime,Try
+,Computer Vision,Face++,Hold
+,Computer Vision,Clarifai,Try
+,Computer Vision,Ever AI,Hold
+,Computer Vision,Deepomatic,Hold
+,Computer Vision,Neurala,Try
+,Computer Vision,YITU,Hold
+,Computer Vision,Trax,Try
+,Computer Vision,Cloudwalk,Hold
+,Computer Vision,DataGrid,Hold
+,Computer Vision,Onfido,Try
+,Computer Vision,MegVII,Hold
+,Computer Vision,Clearview.ai,Try
+,Computer Vision,Aibee,Hold
+,Computer Vision,Prophesaa,Hold
+,Speech,Siri,Try
+,Speech,Amazon Alexa,Hold
+,Speech,Amazon Polly,Try
+,Speech,Amazon Trascribe,Hold
+,Speech,Cortana,Hold
+,Speech,Azure Cognitive Service,Try
+,Speech,Nuance,Hold
+,Speech,SoundHound Inc,Try
+,Speech,Cogito,Hold
+,Speech,Otter,Hold
+,Speech,DeepGram,Try
+,Speech,PolyAI,Hold
+,Speech,GridSpace,Try
+,Speech,MindMeld,Hold
+,NLP,Google Natural Language API,Hold
+,NLP,Amazon Translate,Try
+,NLP,Amazon Comprehend,Hold
+,NLP,WolframAlpha,Try
+,NLP,Hugging Face,Hold
+,NLP,Primer,Hold
+,NLP,Mobvoi,Try
+,NLP,RASA,Hold
+,NLP,Smartling,Try
+,NLP,Semantic Machines,Hold
+,NLP,Unbael,Hold
+,NLP,Amenity Analytics,Try
+,NLP,MonkeyLearn,Hold
+,NLP,Cortical.io,Try
+,Synthetic Media,DeepBrain AI,Hold
+,Synthetic Media,Soul Machines,Hold
+,Synthetic Media,AI Foundation,Try
+,Synthetic Media,D-ID,Hold
+,Synthetic Media,Synthesia,Try
+,Synthetic Media,Dsecript,Hold
+,Synthetic Media,Reface,Hold
+,Synthetic Media,Modulate,Try
+,Synthetic Media,Neosapience,Hold
+,Synthetic Media,Supertone,Try
+,Synthetic Media,EmbodyMe,Hold
+,Synthetic Media,Repharase.ai,Hold
+,Synthetic Media,Vocalid,Try
+,Horizantal AI,IBM Watson,Hold
+,Horizantal AI,OpenAI,Try
+,Horizantal AI,DeepMind,Hold
+,Horizantal AI,Voyager Labs,Hold
+,Horizantal AI,Cognitive Scale,Try
+,Horizantal AI,Vicarious,Hold
+,Horizantal AI,Numenta,Try
+,Horizantal AI,Scaled Inferance,Hold
+,Horizantal AI,Naralogics,Hold
+,Horizantal AI,Petuum,Try
+,Horizantal AI,The Curious Company,Hold
+,Horizantal AI,Blue Vison,Try
+,Horizantal AI,Osaro,Hold
+,Horizantal AI,Affectiva,Hold
+,Horizantal AI,4Paradigm,Try
+,Horizantal AI,DT Dream,Hold
+,Horizantal AI,Peltarion,Try
+,Horizantal AI,Neural Magic,Hold
+,GPU DBS & Cloud,Kinetica,Hold
+,GPU DBS & Cloud,Paperspace,Try
+,GPU DBS & Cloud,Sqream,Hold
+,GPU DBS & Cloud,Omni Sci,Try
+,GPU DBS & Cloud,Fauna,Hold
+,GPU DBS & Cloud,Brytlyt,Hold
+,GPU DBS & Cloud,PG-Storm,Try
+,GPU DBS & Cloud,Blazegraph,Hold
+,GPU DBS & Cloud,BlazingDB,Try
+,GPU DBS & Cloud,FloydHub,Hold
+,AI Hardware,Google TPM,Hold
+,AI Hardware,Arm,Try
+,AI Hardware,Intel AI,Hold
+,AI Hardware,Nvidia,Try
+,AI Hardware,IBM Power Systems,Hold
+,AI Hardware,Graphcore,Hold
+,AI Hardware,Intellifusion,Try
+,AI Hardware,Wave Computing,Hold
+,AI Hardware,Berkshilre Grey,Try
+,AI Hardware,Blaize,Hold
+,AI Hardware,Credo,Hold
+,AI Hardware,Hailo,Try
+,AI Hardware,Mythic,Hold
+,AI Hardware,Movidius,Try
+,AI Hardware,Horizon Robotics,Hold
+,AI Hardware,Cornami,Hold
+,AI Hardware,Cerebras,Try
+,AI Hardware,Speedata,Hold
+,AI Hardware,tenstorrent,Try
+,AI Hardware,groq,Hold
+,BI Platforms,Looker,Hold
+,BI Platforms,Sales Force - einstein analytics,Try
+,BI Platforms,amazon quickSight,Hold
+,BI Platforms,Domo,Try
+,BI Platforms,ThoughtSpot,Hold
+,BI Platforms,SiSense,Hold
+,BI Platforms,AtScale,Try
+,BI Platforms,Qlik,Hold
+,BI Platforms,GoodData,Try
+,BI Platforms,Information Builders,Hold
+,BI Platforms,Birst - An Infor(tm) company,Hold
+,BI Platforms,MicroStrategy,Try
+,BI Platforms,Keen IO,Hold
+,Visualization,Tableau,Try
+,Visualization,Microsoft - Power Bi,Hold
+,Visualization,SAP - Lumira,Hold
+,Visualization,Google - Data Studio,Try
+,Visualization,Periscope Data,Hold
+,Visualization,zepl,Try
+,Visualization,ZoomData - A Logi Analytics Company,Hold
+,Visualization,Plotly,Hold
+,Visualization,Toucan Toco,Try
+,Visualization,Observable,Hold
+,Visualization,GRID,Try
+,Visualization,Preset,Hold
+,Data Analyst Platforms,Microsoft,Hold
+,Data Analyst Platforms,Pentaho - A Hitchi Group Company,Try
+,Data Analyst Platforms,Alteryx,Hold
+,Data Analyst Platforms,Mode,Try
+,Data Analyst Platforms,Datameer,Hold
+,Data Analyst Platforms,Digital Reasoning,Hold
+,Data Analyst Platforms,Endor,Try
+,Data Analyst Platforms,Microsoft Power Bi,Hold
+,Data Analyst Platforms,Attivio,Try
+,Data Analyst Platforms,incorta,Hold
+,Data Analyst Platforms,guavus - a Thales company,Hold
+,Data Analyst Platforms,Ascend.io,Try
+,Data Analyst Platforms,switchboard,Hold
+,Data Analyst Platforms,obviously.ai,Try
+,Data Analyst Platforms,Airtable,Hold
+,Augmented Analytics,ThoughtSpot,Hold
+,Augmented Analytics,SiSu Data,Try
+,Augmented Analytics,anodot,Hold
+,Augmented Analytics,outlier,Try
+,Augmented Analytics,narrative science,Hold
+,Augmented Analytics,facet,Hold
+,Augmented Analytics,macheye,Try
+,Augmented Analytics,cliff.ai,Hold
+,Data Catalog and Discovery,metaphor,Try
+,Data Catalog and Discovery,atlan,Hold
+,Data Catalog and Discovery,data.world,Hold
+,Data Catalog and Discovery,stemma,Try
+,Data Catalog and Discovery,select star,Hold
+,Data Catalog and Discovery,secoda,Try
+,Data Catalog and Discovery,castor,Hold
+,Metrics Store,GoodData,Hold
+,Metrics Store,Trace,Try
+,Metrics Store,Supergrain,Hold
+,Metrics Store,transform,Try
+,Metrics Store,Metriql,Hold
+,Log Analytics,Splunk,Hold
+,Log Analytics,Azure Log Analysis,Try
+,Log Analytics,Google Cloud Logging,Hold
+,Log Analytics,sumo logic,Try
+,Log Analytics,loggly solarwinds,Hold
+,Log Analytics,kibana,Hold
+,Log Analytics,logz.io,Try
+,Log Analytics,logdna,Hold
+,Log Analytics,coralogix,Try
+,Log Analytics,LogRythm,Hold
+,Log Analytics,Observe,Hold
+,Query Engine,Dremio,Try
+,Query Engine,Starburst,Hold
+,Query Engine,ahana,Try
+,Query Engine,amazon athena,Hold
+,Query Engine,varada,Hold
+,Search,elasticsearch,Try
+,Search,Amazon Kendra,Hold
+,Search,Oracle Endeca,Try
+,Search,amazon CloudSearch,Hold
+,Search,Azure Cognitive Services,Hold
+,Search,algolia,Try
+,Search,coveo,Hold
+,Search,sinequa,Try
+,Search,Lucidworks,Hold
+,Search,swiftype,Hold
+,Search,Attivio,Try
+,Search,Exalead - Dassault Syst�mes,Hold
+,Search,Alphasense,Try
+,Search,omni:us,Hold
+,Search,maana,Hold
+,Search,quickwit,Try
+,Search,chaossearch,Hold
+,Sales,Einstein,Try
+,Sales,Gong,Hold
+,Sales,Clari,Hold
+,Sales,conversica,Try
+,Sales,Aviso,Hold
+,Sales,people.ai,Try
+,Sales,clearbit,Hold
+,Sales,tact.ai,Hold
+,Sales,collective [i],Try
+,Sales,fuse machines,Hold
+,Sales,enigma,Try
+,Sales,headsup,Hold
+,Marketing - B2B,App Annie,Hold
+,Marketing - B2B,6Sense,Try
+,Marketing - B2B,Reflektion,Hold
+,Marketing - B2B,tubular,Try
+,Marketing - B2B,DemandBase,Hold
+,Marketing - B2C,Google Analytics,Hold
+,Marketing - B2C,Tealium,Try
+,Marketing - B2C,ActionIQ,Hold
+,Marketing - B2C,Twilio Segment,Try
+,Marketing - B2C,Mixpanel,Hold
+,Marketing - B2C,Amplitude,Hold
+,Marketing - B2C,Simon,Try
+,Marketing - B2C,Attentive,Hold
+,Marketing - B2C,mpartcle,Try
+,Marketing - B2C,contentsquare,Hold
+,Marketing - B2C,Active Campaign,Hold
+,Marketing - B2C,Amperity,Try
+,Marketing - B2C,Bloom Reach,Hold
+,Marketing - B2C,zeta,Try
+,Marketing - B2C,Bluecore,Hold
+,Marketing - B2C,invoca,Hold
+,Marketing - B2C,braze,Try
+,Marketing - B2C,persado,Hold
+,Marketing - B2C,kahuna,Try
+,Marketing - B2C,lytics,Hold
+,Marketing - B2C,signpost,Hold
+,Customer Experience/Service,qualtrics XM,Try
+,Customer Experience/Service,SurveyMonkey,Hold
+,Customer Experience/Service,User Testing,Try
+,Customer Experience/Service,Clarabridge,Hold
+,Customer Experience/Service,Medallia,Hold
+,Customer Experience/Service,Zendesk,Try
+,Customer Experience/Service,Amplitude,Hold
+,Customer Experience/Service,Freshdesk,Try
+,Customer Experience/Service,Gainsight,Hold
+,Customer Experience/Service,pendo,Hold
+,Customer Experience/Service,heap watson assistant,Try
+,Customer Experience/Service,amazon lex,Hold
+,Customer Experience/Service,Dialogflow,Try
+,Customer Experience/Service,liveperson,Hold
+,Customer Experience/Service,intercom,Hold
+,Customer Experience/Service,drift,Try
+,Customer Experience/Service,asapp,Hold
+,Customer Experience/Service,ada,Try
+,Customer Experience/Service,afiniti,Hold
+,Customer Experience/Service,netomi,Hold
+,Customer Experience/Service,CallDesk,Try
+,Customer Experience/Service,aircall,Hold
+,Customer Experience/Service,Eureka CallCentre ???,Try
+,Customer Experience/Service,Talla,Hold
+,Customer Experience/Service,Frame.ai,Hold
+,Customer Experience/Service,BryterCS,Try
+,Customer Experience/Service,CRESTA,Hold
+,Customer Experience/Service,Observe AI,Try
+,Customer Experience/Service,verbit,Hold
+,Customer Experience/Service,sprinklr,Hold
+,Customer Experience/Service,yellow.ai,Try
+,Customer Experience/Service,moengage,Hold
+,Human Capital,Hire Vue,Try
+,Human Capital,Pymetrics,Hold
+,Human Capital,textio,Hold
+,Human Capital,The Predictive Index,Try
+,Human Capital,mya,Hold
+,Human Capital,cathay capital,Try
+,Human Capital,Wade&Wendy,Hold
+,Human Capital,Beamery,Hold
+,Human Capital,entelo,Try
+,Human Capital,ZipRecruiter,Hold
+,Legal,Ravel - a LexisNexis Company,Try
+,Legal,Disco,Hold
+,Legal,ContractPodAi,Hold
+,Legal,Kira Systems,Try
+,Legal,everlaw,Hold
+,Legal,Ironclad,Try
+,Legal,Relativity,Hold
+,Partnerships,Crossbean,Hold
+,Partnerships,Data Republic,Try
+,#REF!,InfoSum,Hold
+,Regtech & Compliance,BigID,Try
+,Regtech & Compliance,Tessian,Hold
+,Regtech & Compliance,Comply Advantage,Hold
+,Regtech & Compliance,"OneTrust - Privacy, Security & Governance",Try
+,Regtech & Compliance,Ethyca,Hold
+,Regtech & Compliance,Securiti.ai,Try
+,Finance,Anaplan,Hold
+,Finance,Zuora,Hold
+,Finance,Sap S/4 Hana,Try
+,Finance,TradeShift,Hold
+,Finance,pilot,Try
+,Finance,digits,Hold
+,Finance,appzen,Hold
+,Finance,Oracle Netsuite,Try
+,Finance,botkeeper,Hold
+,Finance,Pigment,Try
+,Automation & RPA,UI Path,Hold
+,Automation & RPA,Celonis,Hold
+,Automation & RPA,zinier,Try
+,Automation & RPA,HyperScience,Hold
+,Automation & RPA,Blue Prism,Try
+,Automation & RPA,Automation Anywhere,Hold
+,Automation & RPA,Vidado,Hold
+,Automation & RPA,WorkFusion,Try
+,Automation & RPA,workato,Hold
+,Automation & RPA,Eigen Technologies,Try
+,Automation & RPA,Catalytic,Hold
+,Automation & RPA,Kryon,Hold
+,Automation & RPA,AntWorks - Reimagine - Rethink - Recreate,Try
+,Automation & RPA,Golden ???,Hold
+,Automation & RPA,Fortress IQ,Try
+,Automation & RPA,HighRadius,Hold
+,Automation & RPA,Electric,Hold
+,Automation & RPA,Instabase,Try
+,Automation & RPA,Moveworks,Hold
+,Automation & RPA,Alkymi,Try
+,Automation & RPA,Tonkean,Hold
+,Security,Tanioum,Hold
+,Security,BlackBerry Spark,Try
+,Security,zscaler,Hold
+,Security,StackPath,Try
+,Security,CrowdStrike,Hold
+,Security,Illumio,Hold
+,Security,Forter,Try
+,Security,sift,Hold
+,Security,riskified,Try
+,Security,feedzai,Hold
+,Security,datavisor,Hold
+,Security,pindrop,Try
+,Security,riskrecon - Mastercard,Hold
+,Security,Anomali,Try
+,Security,Recourded Future,Hold
+,Security,Shield AI,Hold
+,Security,Spark Cognition,Try
+,Security,Cybereason,Hold
+,Security,DarkTrace,Try
+,Security,Threat Metrix,Hold
+,Security,Vectra,Hold
+,Security,Socure,Try
+,Security,Cloudflare,Hold
+,Security,Exabeam,Try
+,Security,Area 1 Security,Hold
+,Security,Obsidian,Hold
+,Security,Sentinel One,Try
+,Security,Super Red,Hold
+,Security,BlueHexagon,Try
+,Security,Axonius,Hold
+,Security,GitGuardian,Hold
+,Security,Armorblox,Try
+,Security,CybelAngel,Hold
+,Security,Privitar,Try
+,Security,netskope,Hold
+,Security,Code 42,Hold
+,Security,Snyk,Try
+,Advertising,Xandr,Hold
+,Advertising,MediaMath,Try
+,Advertising,Criteo,Hold
+,Advertising,Integral Ad Science,Hold
+,Advertising,Oracle Moat,Try
+,Advertising,SalesForce Datorama,Hold
+,Advertising,Albert,Try
+,Advertising,gumgum,Hold
+,Advertising,appier,Hold
+,Advertising,theTradeDesk,Try
+,Education,Liulishuo,Hold
+,Education,????,Try
+,Education,Knewton,Hold
+,Education,Declara,Hold
+,Education,Squirrel AI Learning,Try
+,Education,Korbit,Hold
+,Real Estate,Redfin,Try
+,Real Estate,VTS,Hold
+,Real Estate,Opendoor,Hold
+,Real Estate,Orchard,Try
+,Real Estate,reonomy,Hold
+,Real Estate,Skyline,Try
+,Real Estate,SpaceMaker,Hold
+,Real Estate,Geophy,Hold
+,Gov't & Intelligence,Palantir,Try
+,Gov't & Intelligence,OpenGov,Hold
+,Gov't & Intelligence,Dataminr,Try
+,Gov't & Intelligence,Mark43,Hold
+,Gov't & Intelligence,Anduril,Hold
+,Gov't & Intelligence,Quid,Try
+,Gov't & Intelligence,FiscalNote,Hold
+,Gov't & Intelligence,Primer,Try
+,Gov't & Intelligence,Streetlight Data,Hold
+,Commerce,Stitch Fix,Hold
+,Commerce,Instacart,Try
+,Commerce,Shein,Hold
+,Commerce,Faire,Try
+,Commerce,HowGood,Hold
+,Commerce,Standard,Hold
+,Commerce,Grabango,Try
+,Finance - Investing,Symphony Ayasdi,Hold
+,Finance - Investing,Kensho,Try
+,Finance - Investing,Addepar,Hold
+,Finance - Investing,Numerai,Hold
+,Finance - Lending,Affirm,Try
+,Finance - Lending,Monedo,Hold
+,Finance - Lending,Tala,Try
+,Finance - Lending,Zest AI,Hold
+,Finance - Lending,"Upgrade, Inc.",Hold
+,Finance - Lending,Clearbanc,Try
+,Finance - Lending,Upstart,Hold
+,Finance - Lending,100Credit,Try
+,Finance - Lending,Active.Ai,Hold
+,Finance - Lending,commonbond,Hold
+,Finance - Lending,MoneyLion,Try
+,Finance - Lending,SoFi,Hold
+,Finance - Lending,True Accord,Try
+,Insurance,Root,Hold
+,Insurance,Metromile,Hold
+,Insurance,lemonade,Try
+,Insurance,Guidewire,Hold
+,Insurance,Shift Technology,Try
+,Insurance,Arturo,Hold
+,Insurance,Cape Analytics,Hold
+,Insurance,USAA,Try
+,Insurance,Tractable,Hold
+,Insurance,Evolution IQ,Try
+,Insurance,Zelros,Hold
+,Insurance,zesty.ai,Hold
+,Healthcare,Flatiron,Try
+,Healthcare,Kyruus,Hold
+,Healthcare,MetaBiota,Try
+,Healthcare,Babalon,Hold
+,Healthcare,3DMed,Hold
+,Healthcare,PathAI,Try
+,Healthcare,Tempus,Hold
+,Healthcare,Patientslikeme,Try
+,Healthcare,TytoCare,Hold
+,Healthcare,AiCure,Hold
+,Healthcare,LinkDoc,Try
+,Healthcare,SigTuple,Hold
+,Healthcare,Olive,Try
+,Healthcare,Imagia,Hold
+,Healthcare,Komondohealth,Hold
+,Healthcare,Paige,Try
+,Healthcare,K Health,Hold
+,Healthcare,Innovaccer,Try
+,Healthcare,Lumiata,Hold
+,Healthcare,Spring Health,Hold
+,Healthcare,the Human Diagnosis project,Try
+,Healthcare,Viz.ai,Hold
+,Healthcare,Enlitic,Try
+,Healthcare,Arterys,Hold
+,Healthcare,Ezra,Hold
+,Healthcare,Caption Health,Try
+,Healthcare,Imagen,Hold
+,Healthcare,Zebra,Try
+,Healthcare,Abacus insights,Hold
+,Healthcare,Clover Health,Hold
+,Healthcare,LeanTaaS,Try
+,Healthcare,MindStrong,Hold
+,Life Sciences,Zymergen,Try
+,Life Sciences,Benchling,Hold
+,Life Sciences,23andMe,Hold
+,Life Sciences,Color,Try
+,Life Sciences,Sophia,Hold
+,Life Sciences,jCarbonX,Try
+,Life Sciences,BenevolentAI,Hold
+,Life Sciences,Verily,Hold
+,Life Sciences,DNAnexus,Try
+,Life Sciences,Pathway Genomics,Hold
+,Life Sciences,Genuity Science,Try
+,Life Sciences,Inato,Hold
+,Life Sciences,Freenome,Hold
+,Life Sciences,Atomwise,Try
+,Life Sciences,Phosphorus,Hold
+,Life Sciences,Deep genomics,Try
+,Life Sciences,Owkin,Hold
+,Life Sciences,Insitro,Hold
+,Life Sciences,Exscientia,Try
+,Life Sciences,recursion Pharmicuticales,Hold
+,Life Sciences,ConcertAI,Try
+,Life Sciences,Healx,Hold
+,Life Sciences,Verana Health,Hold
+,Life Sciences,Valo,Try
+,Transportation,Uber,Hold
+,Transportation,Tesla,Try
+,Transportation,Waymo,Hold
+,Transportation,Cruise,Hold
+,Transportation,Nuro,Try
+,Transportation,Aptiv,Hold
+,Transportation,Cambridge Mobile Telematics,Try
+,Transportation,Aurora,Hold
+,Transportation,Nauto,Hold
+,Transportation,AVMotive,Try
+,Transportation,Argo,Hold
+,Transportation,Pilot AI,Try
+,Transportation,Nio,Hold
+,Transportation,Optimus Ride,Hold
+,Transportation,G7,Try
+,Transportation,MobilEye,Hold
+,Transportation,Nexar,Try
+,Transportation,Kodiak,Hold
+,Transportation,Moovit,Hold
+,Transportation,Blaize,Try
+,Transportation,Ghost,Hold
+,Transportation,Perceptive Automata,Try
+,Transportation,DiDi,Hold
+,Transportation,Embark,Hold
+,Transportation,Pony,Try
+,Transportation,Tu Simple,Hold
+,Transportation,Via,Try
+,Agriculture,John Deere,Hold
+,Agriculture,Farmers Bussiness Network,Hold
+,Agriculture,Granular,Try
+,Agriculture,Blue River Technology,Hold
+,Agriculture,Taranis,Try
+,Agriculture,Prospera,Hold
+,Agriculture,Semios,Hold
+,Other,ByteDance,Try
+,Other,Stem,Hold
+,Other,Amper,Try
+,Other,Statespace,Hold
+,Other,Verdigris,Hold
+,Other,Second Spectrum,Try
+,Other,Duetto,Hold
+,Other,Lightricks,Try
+,Other,Nextmv,Hold
+,Industrial,Aveva,Hold
+,Industrial,Siemens,Try
+,Industrial,Schneider Electric,Hold
+,Industrial,Uptake,Try
+,Industrial,Sight Machine,Hold
+,Industrial,Predix,Hold
+,Industrial,Konux,Try
+,Industrial,Fero Labs,Hold
+,Industrial,Scortex,Try
+,Industrial,Tachyus,Hold
+,Industrial,Alice Technologies,Hold
+,Industrial,Augury,Try
+,Industrial,Built Robotics,Hold
+,Industrial,Covariant,Try
+,Industrial,Beyond Limits,Hold
+,Industrial,Cognite,Hold
+,Industrial,Cloudminds,Try
+,Industrial,Skydio,Hold
+,Industrial,CognitOps,Try
+,Industrial,Crisp,Hold
+,Terraform,Immutable,Hold
+,Terraform,Azure,Try
+,Terraform,AWS,Hold
+,Terraform,Azure,Try
+,Terraform,GCP,Hold
+,Terraform,Private cloud,Try
+,Terraform,Automation,Hold
+,Terraform,GPL,Hold
+,Pulumi,Immutable,Hold
+,Pulumi,Azure,Try
+,Pulumi,AWS,Hold
+,Pulumi,Azure,Try
+,Pulumi,GCP,Hold
+,Pulumi,Private cloud,Try
+,Pulumi,Automation,Hold
+,Pulumi,GPL,Hold
+,LLM,GPT Models,Try
+,LLM,Claude,Try
+,LLM,Llama 2,Try
+,LLM,Falcon,Try
+,LLM,Palm 2,Try
+,GPT Models,Multiple sizes (1T+),Try
+,GPT Models,"Privacy concerns (1 out of 5, Low)",Try
+,GPT Models,"Performance (4 out 5, High)",Try
+,GPT Models,Low latency (4 out of 5),Try
+,Claude,Multiple sizes,Try
+,Claude,Privacy concerns,Try
+,Claude,Focussed performance,Try
+,Claude,Low latency,Try
+,Llama 2,Fine tuning,Try
+,Llama 2,Low latency,Try
+,Llama 2,Low privacy concerns,Try
+,Falcon,Multilingual,Try

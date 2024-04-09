@@ -1,0 +1,48 @@
+,tech,related,strategy
+,All,All,All
+0,Ansible,Mutable,Hold
+1,Ansible,Azure,Try
+2,Ansible,AWS,Hold
+3,Ansible,Azure,Try
+4,Ansible,GCP,Hold
+5,Ansible,Automation,Hold
+6,Ansible,Private cloud,Try
+7,Ansible,DSL,Hold
+8,Chef,Mutable,Try
+9,Chef,Azure,Hold
+10,Chef,AWS,Try
+11,Chef,Azure,Hold
+12,Chef,GCP,Try
+13,Chef,Private cloud,Hold
+14,Chef,Automation,Hold
+15,Chef,GPL,Try
+16,Terraform,Immutable,Hold
+17,Terraform,Azure,Try
+18,Terraform,AWS,Hold
+19,Terraform,Azure,Try
+20,Terraform,GCP,Hold
+21,Terraform,Private cloud,Try
+22,Terraform,Automation,Hold
+23,Terraform,GPL,Hold
+24,Cloudformation,Immutable,Try
+25,Cloudformation,AWS,Hold
+26,amazon S3,Storage,Try
+27,Azure storage,Storage,Hold
+28,Pure Storage,Storage,Hold
+29,LLM,GPT Models,Try
+30,LLM,Claude,Try
+31,LLM,Llama 2,Try
+32,LLM,Falcon,Try
+33,LLM,Palm 2,Try
+34,GPT Models,Multiple sizes,Try
+35,GPT Models,Privacy concerns,Try
+36,GPT Models,High performance,Try
+37,GPT Models,Low latency,Try
+38,Claude,Multiple sizes,Try
+39,Claude,Privacy concerns,Try
+40,Claude,Focussed performance,Try
+41,Claude,Low latency,Try
+42,Llama 2,Fine tuning,Try
+43,Llama 2,Low latency,Try
+44,Llama 2,Low privacy concerns,Try
+45,Falcon,Multilingual,Try
